@@ -1,0 +1,1 @@
+<a href="{{ route('password_reset.email.form') }}">パスワードをお忘れの方</a>
