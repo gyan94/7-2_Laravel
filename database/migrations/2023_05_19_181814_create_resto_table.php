@@ -19,6 +19,7 @@ class CreateRestoTable extends Migration
             $table->string("email")->unique();
             $table->string("password");
             $table->string("google_id")->nullable();
+            $table->integer('role')->default(0);
             $table->timestamps();
         });
         Schema::create('posts', function (Blueprint $table) {
