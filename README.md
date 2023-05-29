@@ -28,11 +28,11 @@ Laravel8で飲食店情報共有・口コミサイトを作成
 
 
 ## 環境
-PHP8.2
-Laravel8.7
-MySQL
-phpMyAdmin
-XAMPP
+PHP8.2<br>
+Laravel8.7<br>
+MySQL<br>
+phpMyAdmin<br>
+XAMPP<br>
 
 
 ## データベース
